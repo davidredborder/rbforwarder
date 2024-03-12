@@ -28,7 +28,7 @@ import (
 	"time"
 
 	"github.com/benbjohnson/clock"
-	"github.com/redBorder/rbforwarder/utils"
+	"github.com/davidredborder/rbforwarder/utils"
 )
 
 // Batch groups multiple messages

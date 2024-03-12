@@ -26,7 +26,7 @@ import (
 	"time"
 
 	"github.com/benbjohnson/clock"
-	"github.com/redBorder/rbforwarder/utils"
+	"github.com/davidredborder/rbforwarder/utils"
 	. "github.com/smartystreets/goconvey/convey"
 	"github.com/streamrail/concurrent-map"
 	"github.com/stretchr/testify/mock"

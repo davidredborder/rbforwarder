@@ -28,7 +28,7 @@ import (
 
 	"github.com/sirupsen/logrus"
 	"github.com/asaskevich/govalidator"
-	"github.com/redBorder/rbforwarder/utils"
+	"github.com/davidredborder/rbforwarder/utils"
 )
 
 // HTTPSender is a component for the rbforwarder pipeline that sends messages

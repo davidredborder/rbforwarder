@@ -22,7 +22,7 @@ import (
 	"time"
 
 	"github.com/benbjohnson/clock"
-	"github.com/redBorder/rbforwarder/utils"
+	"github.com/davidredborder/rbforwarder/utils"
 )
 
 // Limiter is a component that blocks the pipeline to ensure a maximum number

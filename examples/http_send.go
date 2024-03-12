@@ -27,10 +27,10 @@ import (
 	"github.com/sirupsen/logrus"
 	"github.com/x-cray/logrus-prefixed-formatter"
 
-	"github.com/redBorder/rbforwarder"
-	"github.com/redBorder/rbforwarder/components/batch"
-	"github.com/redBorder/rbforwarder/components/httpsender"
-	"github.com/redBorder/rbforwarder/components/limiter"
+	"github.com/davidredborder/rbforwarder"
+	"github.com/davidredborder/rbforwarder/components/batch"
+	"github.com/davidredborder/rbforwarder/components/httpsender"
+	"github.com/davidredborder/rbforwarder/components/limiter"
 )
 
 func main() {

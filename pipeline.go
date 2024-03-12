@@ -20,7 +20,7 @@ package rbforwarder
 
 import (
 	"github.com/oleiade/lane"
-	"github.com/redBorder/rbforwarder/utils"
+	"github.com/davidredborder/rbforwarder/utils"
 )
 
 // Component contains information about a pipeline component

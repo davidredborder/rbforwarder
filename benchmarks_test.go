@@ -26,9 +26,9 @@ import (
 	"sync"
 	"testing"
 
-	"github.com/redBorder/rbforwarder/components/batch"
-	"github.com/redBorder/rbforwarder/components/httpsender"
-	"github.com/redBorder/rbforwarder/utils"
+	"github.com/davidredborder/rbforwarder/components/batch"
+	"github.com/davidredborder/rbforwarder/components/httpsender"
+	"github.com/davidredborder/rbforwarder/utils"
 )
 
 type Null struct{}

@@ -23,7 +23,7 @@ import (
 	"sync/atomic"
 
 	"github.com/sirupsen/logrus"
-	"github.com/redBorder/rbforwarder/utils"
+	"github.com/davidredborder/rbforwarder/utils"
 )
 
 // Version is the current tag

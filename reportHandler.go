@@ -22,7 +22,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/redBorder/rbforwarder/utils"
+	"github.com/davidredborder/rbforwarder/utils"
 )
 
 // reportHandler is used to handle the reports produced by the last element

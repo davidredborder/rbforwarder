@@ -22,7 +22,7 @@ import (
 	"sync"
 
 	"github.com/benbjohnson/clock"
-	"github.com/redBorder/rbforwarder/utils"
+	"github.com/davidredborder/rbforwarder/utils"
 	"github.com/streamrail/concurrent-map"
 )
 
